@@ -1,4 +1,4 @@
-# A simple Go Web Server
+# Simple Go Web Server
 A simple implementation of a Web Server in Go.
 
 ## Description
